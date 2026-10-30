@@ -1,0 +1,8 @@
+﻿path: .
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 35
+names: ['Ambulance', 'Auto', 'Car', 'Ltv', 'auto', 'bicycle', 'bike', 'bus', 'car', 'donkey cart', 'motorbike', 'motorcycle', 'other', 'person', 'truck', 'barrier', 'black and yellowbarrier', 'concretebarrier', 'fence', 'dustbin', 'bin detection test2 - v1 2023-12-25 4-54pm', 'chair', 'door', 'Bus', 'Motorcycle', 'Truck', 'Pathole', '0', '1', '2', 'downstair', 'stair', 'stairs', 'upstair', 'rock']
+ 
